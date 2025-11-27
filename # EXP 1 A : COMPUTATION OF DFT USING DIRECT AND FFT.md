@@ -5,7 +5,7 @@
 To Obtain DFT and FFT of a given sequence in SCILAB. 
 
 # APPARATUS REQUIRED: 
-PC installed with SCILAB. 
+PC installed  with SCILAB. 
 
 # PROGRAM: 
 ```
